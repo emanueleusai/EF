@@ -1,4 +1,0 @@
-[submodule "HiggsReport"]
-	path = HiggsReport
-	url = git@github.com:emanueleusai/HiggsReport.git
-	branch = main
